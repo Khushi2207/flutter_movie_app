@@ -1,16 +1,14 @@
-# movie_application_2
+What I Have Done
 
-A new Flutter project.
+✅ Responsive UI with Display Methods I used display methods to make sure the app looks good on all screen sizes, including tablets and foldable devices. The app works smoothly on both Android and iOS platforms.
 
-## Getting Started
+✅ Professional App-Like Structure I followed a clean and professional project structure similar to production apps. I created common widgets to save time and maintain UI consistency. I also made shared files for colours, constants, and other commonly used elements.
 
-This project is a starting point for a Flutter application.
+✅ State Management with GetX I used GetX Controllers for easy state management, keeping the app’s logic clean and making the UI responsive and reactive.
 
-A few resources to get you started if this is your first Flutter project:
+✅ Networking with Retrofit . All API calls are handled using Retrofit, making the networking part of the app clean, easy to maintain, and scalable.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✅ Progress Indicators & Error Handling I added loaders and progress indicators to give users clear feedback during loading states, along with proper error handling for issues like network failures.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✅ Offline Support with Local Database The app stores movie data locally, so users can still access the content even when they are offline.
+
